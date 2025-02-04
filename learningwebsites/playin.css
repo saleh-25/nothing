@@ -1,0 +1,36 @@
+.duaa{
+  width: 400px;
+  z-index: 0;
+}
+.basketball{
+  position: absolute;
+  top: 245px;
+  width: 90px;
+  left: 190px;
+  border-radius: 80px;
+  z-index: 2;
+}
+.hand{
+  position: absolute;
+  width: 160px;
+  left: 150px;
+  top: 225px;
+  z-index: 1;
+}
+.container{
+  position: relative;
+
+}
+.control{
+  display: flex;
+  justify-content: center;
+}
+
+.button{
+  padding: 70px 70px 70px 70px;
+  font: Arial;
+  font-size: 50px;
+  border-radius: 100px;
+  color:white;
+  background-color: red;;
+}
